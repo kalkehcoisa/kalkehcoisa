@@ -1,79 +1,191 @@
-# 👋 Hi, I’m Jayme
+# Hi, I'm Jayme Tosi Neto 👋
 
-**Senior Backend Engineer | Transitioning into Data Engineering → MLOps | Python, SQL, Snowflake**
+Senior Software Engineer with more than a decade of experience building software, APIs, automation platforms, cloud solutions, developer tools and data-driven applications.
 
-I’m a senior backend engineer with a strong data-oriented background, currently transitioning into **Data Engineering** and, in the longer term, **MLOps**.
+Throughout my career I've worked across backend development, frontend applications, infrastructure, cloud platforms, databases, automation, artificial intelligence and developer productivity tooling.
 
-My work revolves around building **reliable backend systems**, APIs and data pipelines using Python ecosystems. I care deeply about clarity, maintainability and systems that behave well in real production environments — not just in slides or demos.
-
----
-
-## 🧠 What I work with
-
-- **Languages:** Python, SQL, Bash  
-- **Backend:** Django, FastAPI, Flask  
-- **Data:** Snowflake, ETL / ELT pipelines, analytical SQL, data modeling  
-- **Infrastructure & Tooling:** Docker, Git, Linux  
-- **APIs & Integration:** REST APIs, JSON-based services, internal integrations  
-- **Architecture:** API-first systems, service-oriented design, automation, data-driven backends  
+I enjoy understanding complex systems, learning new technologies and delivering practical solutions that solve real business problems.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+* Design and build scalable backend systems
+* Develop APIs and web applications
+* Create automation and data processing solutions
+* Work with cloud infrastructure and DevOps practices
+* Build AI-powered applications and integrations
+* Develop internal tools and developer platforms
+* Explore new technologies and engineering approaches
 
 ---
 
-## 📌 Selected Work
+## Tech Stack
 
-Here you’ll find a mix of backend services, data-related tooling and experiments.
+### Languages
 
-Typical things I work on:
-- Backend services with heavy data interaction
-- Python + SQL pipelines for data processing and analytics
-- REST APIs and internal services
-- Automation scripts, CLI tools and operational utilities
-- Proofs of concept around data platforms and data-centric architectures
+* Python
+* Rust
+* TypeScript
+* JavaScript
+* Java
+* SQL
+* Bash
 
-Not everything is a polished showcase project. Some repositories reflect experimentation and learning in public, especially as I deepen my work with data platforms and pipelines.
+### Backend
+
+* FastAPI
+* Django
+* Flask
+* Express.js
+* Axum
+* Pyramid
+* Bottle
+* REST APIs
+
+### Frontend
+
+* Vue.js
+* HTML5
+* CSS3
+* jQuery
+* Bootstrap
+
+### Data & Databases
+
+* Snowflake
+* Snowpark
+* PostgreSQL
+* MySQL
+* Redis
+* Neo4j
+* DuckDB
+* ETL Pipelines
+
+### Cloud & Infrastructure
+
+* AWS
+* Azure
+* Docker
+* Kubernetes
+* Terraform
+* Serverless Architectures
+* Linux
+* CI/CD
+
+### AI & Automation
+
+* LLM Applications
+* AI Agents
+* OpenAI Integrations
+* Computer Vision
+* Recommendation Systems
+* Web Scraping
+* Browser Automation
+* Workflow Automation
+
+### Testing & Quality
+
+* Pytest
+* API Testing
+* QA Automation
+* Swagger / OpenAPI
 
 ---
 
-## 🚧 Current Direction
+## Featured Areas
 
-- Deepening Data Engineering fundamentals  
-- Advanced SQL and analytical patterns  
-- Snowflake-based data workflows  
-- Backend services designed to support data & ML workloads  
-- Gradual move toward **MLOps**, with focus on production concerns rather than experimentation-only setups  
+### Backend Engineering
 
----
+Building APIs, services and applications focused on maintainability, performance and scalability.
 
-## 📊 GitHub Activity
+### Cloud Architecture
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kalkehcoisa&show_icons=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalkehcoisa&layout=compact&langs_count=8"/>
-</p>
+Designing and deploying solutions using modern cloud-native practices and Infrastructure as Code.
 
----
+### Artificial Intelligence
 
-## 🌐 Links
+Experimenting with LLMs, AI agents, automation and practical AI applications.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jaymetosineto/  
-- 🧑‍💻 GitHub: https://github.com/kalkehcoisa  
+### Data Platforms
+
+Working with analytical databases, graph databases and data processing pipelines.
+
+### Developer Experience
+
+Creating tools, automation and workflows that improve productivity and reduce operational complexity.
 
 ---
 
-> I prefer calm systems, clear ownership and engineering decisions that age well.
+## Selected Projects
+
+### Financial Applications
+
+* Investment portfolio management systems
+* Banking APIs
+* Brazilian payment and boleto generation libraries
+
+### Artificial Intelligence
+
+* Expense Detective AI
+* Voice Command GPT
+* AI-powered assistants and automation projects
+
+### Data & Analytics
+
+* Snowflake applications
+* Data engineering experiments
+* Neo4j recommendation systems
+* Graph data modeling projects
+
+### Cloud & Infrastructure
+
+* Terraform environments
+* AWS laboratories and experiments
+* Infrastructure automation projects
+
+### Automation
+
+* Web crawlers and scrapers
+* Browser automation
+* Bots and developer tooling
+
+### Systems Programming
+
+* Rust backend applications
+* Axum-based services
+* Performance-oriented experiments
+
+---
+
+## Engineering Interests
+
+* Backend Engineering
+* Full Stack Development
+* Cloud Architecture
+* Distributed Systems
+* Artificial Intelligence
+* Data Platforms
+* Developer Experience
+* Automation
+* Open Source
+* Performance Optimization
+
+---
+
+## Philosophy
+
+I enjoy working across the entire software development lifecycle—from designing APIs and backend services to cloud infrastructure, frontend applications, automation and data platforms.
+
+Strong engineering fundamentals matter more than any specific framework or technology. My focus is on understanding problems, choosing the right tools and delivering solutions that provide long-term value.
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/jaymetosineto/  
+- GitHub: https://github.com/kalkehcoisa  
+
+---
+
+> I prefer calm environments, clear ownership and engineering decisions that age well.
